@@ -17,6 +17,8 @@ The result is a fully navigable tutorial website where every source file has a c
 
 ## Example Output
 
+**Live demo**: [https://tkoniy.github.io/verl/](https://tkoniy.github.io/verl/)
+
 This skill was used to generate a 411-page tutorial for the [verl](https://github.com/volcengine/verl) reinforcement learning framework (397 Python files):
 
 - Background knowledge docs (RL, RLHF, PPO, distributed training)
@@ -25,6 +27,8 @@ This skill was used to generate a 411-page tutorial for the [verl](https://githu
 - Module overview pages with ASCII architecture diagrams
 - LaTeX-rendered mathematical formulas
 - Full-text search with Chinese/English support
+
+[![verl tutorial screenshot](https://img.shields.io/badge/Live_Demo-verl_Tutorial-blue?style=for-the-badge)](https://tkoniy.github.io/verl/)
 
 ## Installation
 
