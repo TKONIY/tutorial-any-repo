@@ -1,12 +1,13 @@
 {
-  "schema_version": "1.0",
-  "name": "tutorial-any-repo",
-  "description": "Generate file-by-file code tutorial websites for any repository with parallel agent teams",
+  "owner": {
+    "name": "TKONIY",
+    "email": "contact@example.com" 
+  },
   "plugins": [
     {
       "name": "tutorial-any-repo",
-      "description": "Automatically generate a file-by-file code tutorial website for any repository. Explores codebase, launches parallel agents, self-reviews, deploys to GitHub Pages.",
-      "path": ".",
+      "description": "A tutorial plugin from TKONIY",
+      "source": "https://github.com/TKONIY/tutorial-any-repo",
       "skills": ["skills/tutorial-any-repo"]
     }
   ]
