@@ -1,13 +1,14 @@
 {
+  "name": "tutorial-any-repo",
   "owner": {
     "name": "TKONIY",
-    "email": "contact@example.com" 
+    "email": "contact@example.com"
   },
   "plugins": [
     {
       "name": "tutorial-any-repo",
-      "description": "A tutorial plugin from TKONIY",
-      "source": "https://github.com/TKONIY/tutorial-any-repo",
+      "description": "Generate file-by-file code tutorial websites for any repository",
+      "source": "./",
       "skills": ["skills/tutorial-any-repo"]
     }
   ]
