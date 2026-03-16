@@ -9,7 +9,8 @@
       "name": "tutorial-any-repo",
       "description": "Generate file-by-file code tutorial websites for any repository",
       "source": "./",
-      "skills": ["skills/tutorial-any-repo"]
+      "strict": false,
+      "skills": ["./skills/tutorial-any-repo"]
     }
   ]
 }
